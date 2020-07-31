@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HikingCharts</string>
+    <string name="lineDataLabel">Label</string>
+</resources>
